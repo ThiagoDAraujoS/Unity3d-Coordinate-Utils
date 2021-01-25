@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-
+//This is a test
 //Coodinate object
 [System.Serializable]
 public struct Coordinate {
